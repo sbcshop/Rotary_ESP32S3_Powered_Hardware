@@ -3,7 +3,7 @@
 <img src = "https://github.com/sbcshop/Rotary_ESP32S3_Powered_Hardware/blob/main/images/esp.png" width="648" height="432">
 
 
-This GitHub page provides hardware design files for Rotary powered by ESP32 S3.
+This GitHub page provides hardware design files for Rotary Encoder powered by ESP32 S3.
 
 
 ### Repository Contents:
